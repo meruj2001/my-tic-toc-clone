@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_tic_toc_clone/widgets/bottom_navigation.dart';
 
-import '../widgets/home/home_video_renderer.dart';
+import '../widgets/home/video_player.dart';
 import '../widgets/home/video_description.dart';
 
 class HomePage extends StatelessWidget {

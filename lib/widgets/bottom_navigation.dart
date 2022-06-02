@@ -58,7 +58,7 @@ class BottomNavigation extends StatelessWidget {
                   Align(
                     alignment: Alignment.center,
                     child: Container(
-                      margin: const EdgeInsets.symmetric(horizontal: AppDimens.createButtonPadding),
+                      // margin: const EdgeInsets.symmetric(horizontal: AppDimens.createButtonPadding),
                       height: 30,
                       width: 35,
                       decoration: BoxDecoration(
